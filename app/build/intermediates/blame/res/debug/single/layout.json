@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_grid.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\layout\\fragment_grid.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen_image.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\layout\\activity_fullscreen_image.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_photo.xml",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\layout\\grid_item_photo.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Feb 09 13:42:43 ICT 2017
+base.0=D\:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be288c575a9fb7f5763c526a79f03cb252b74a0f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68749aff6a1c6076d827ee642b76c4b69c1b6408\\classes.dex
+base.1=D\:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_68749aff6a1c6076d827ee642b76c4b69c1b6408
+file.0=D\:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be288c575a9fb7f5763c526a79f03cb252b74a0f\\classes.dex

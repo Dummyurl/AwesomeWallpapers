@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b06ca7dab2cb3b837df632be636c973b79446e05">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_68749aff6a1c6076d827ee642b76c4b69c1b6408\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac180494d96b5a4688e111a068223530408f30f">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be288c575a9fb7f5763c526a79f03cb252b74a0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manroid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0614a2111f25ef782172c7e3a6951dd98df1e109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\LAP TRINH ANDROID\DevProK17\Awesome Wallpapers\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_43aaa0eef1019632ac3eb5f7c160fc01c72e59a3\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home.png",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_overflow.png",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "D:\\LAP TRINH ANDROID\\DevProK17\\Awesome Wallpapers\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    }
+]
